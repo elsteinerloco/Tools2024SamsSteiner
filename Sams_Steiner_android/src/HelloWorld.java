@@ -8,7 +8,12 @@ public class HelloWorld {
 	
 	public void print() {
         System.out.println("Hello World");
+<<<<<<< HEAD
         System.out.println("Alex!!!!!!!");
+=======
+        System.out.println("Felix");
+        System.out.println("Axel");
+>>>>>>> bugfix
     }
 }
 
