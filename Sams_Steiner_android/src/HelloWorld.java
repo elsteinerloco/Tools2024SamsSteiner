@@ -1,6 +1,8 @@
 
 public class HelloWorld {
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() { 
+		System.out.println("Git Repo");
+	}
 	
 
 	public void print() {
