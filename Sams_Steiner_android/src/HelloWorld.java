@@ -3,6 +3,7 @@ public class HelloWorld {
 	public void thisIsANewMethod() { 
         System.out.println("not GIT Repo");
 		System.out.println("Git Repo");
+		System.out.println("Still Git Repo");
 	}
 	
 	public void print() {
